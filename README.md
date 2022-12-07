@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @RyanChadly
-- 👀 I’m interested in programming
-- 🌱 I’m currently practicing ReactJS, Redux and Typescript
-
+- 👋 Hi, I’m @RyanChadly, I am a french developer living in Poland.
+- I mostly work with React, Redux, Typescript, Jest...
